@@ -14,14 +14,12 @@ This is a free, online photo-sharing application and social network platfrom tha
 - Flutter
 - Firebase
 - VS code
-- Third party tools
 
 
 # Schema
 
 ### User
-
-This page focuses on web pages. Doodle follows three basic steps to generate results from web pages
+Users should be able to upload/download/view photos. Users can perform searches based on photo/video titles. Users can follow other users. The system should generate and display a user's News Feed consisting of top photos from all the people the user follows
 
 - Crawling
 - Indexing
@@ -30,7 +28,7 @@ This page focuses on web pages. Doodle follows three basic steps to generate res
 
 ### Project
 
-- name: Doodle 
+- name: Instachat 
 - description: textfield
 - createdAt: timestamp
 - updatedAt: timestamp
