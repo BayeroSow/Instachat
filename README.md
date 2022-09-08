@@ -3,11 +3,15 @@ This is a free, online photo-sharing application and social network platfrom tha
 
 
 # Requirements
-- Post photos
+- Share Posts with Caption
+- Display Posts with Caption
 - Comment and like posts
-- Add friends
-- Search for friends
+- Search Users
+- Follow Users
 - Sell on platform
+- Email & Password Authentication
+- Sign Out
+- Display User Posts, Followers & Following
 
 
 # Tech Stack
