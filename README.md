@@ -1,8 +1,8 @@
-<img src="assets/images/Screenshot1.png" width="1000">
-<img src="assets/images/Screenshot2.png" width="1000">
-<img src="assets/images/Screenshot3.png" width="1000">
-<img src="assets/images/Screenshot4.png" width="1000">
-<img src="assets/images/Screenshot5.png" width="1000">
+<img src="web/Screenshot1.png" width="1000">
+<img src="web/Screenshot2.png" width="1000">
+<img src="web/Screenshot3.png" width="1000">
+<img src="web/Screenshot4.png" width="1000">
+<img src="web/Screenshot5.png" width="1000">
 
 
 # Instachat
