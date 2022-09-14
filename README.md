@@ -1,3 +1,10 @@
+<img src="assets/images/Screenshot1.png" width="1000">
+<img src="assets/images/Screenshot2.png" width="1000">
+<img src="assets/images/Screenshot3.png" width="1000">
+<img src="assets/images/Screenshot4.png" width="1000">
+<img src="assets/images/Screenshot5.png" width="1000">
+
+
 # Instachat
 This is a free, online photo-sharing application and social network platfrom that works on Android, iOS & Web.
 
