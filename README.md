@@ -17,6 +17,7 @@ This is a free, online photo-sharing application and social network platfrom tha
 - Follow Users
 - Sell on platform
 - Email & Password Authentication
+- Sign In
 - Sign Out
 - Display User Posts, Followers & Following
 
