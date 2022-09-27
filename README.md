@@ -7,7 +7,6 @@
 # Instachat
 This is a free, online photo-sharing application and social network platfrom that works on Android, iOS & Web.
 
-
 # Requirements
 - Share Posts with Caption
 - Display Posts with Caption
@@ -20,12 +19,10 @@ This is a free, online photo-sharing application and social network platfrom tha
 - Sign Out
 - Display User Posts, Followers & Following
 
-
 # Tech Stack
 - Flutter
 - Firebase
 - VS code
-
 
 # Schema
 
@@ -35,7 +32,6 @@ Users would be able to upload/download/view photos. Users can perform searches b
 - Crawling
 - Indexing
 - Serving
-
 
 ### Project
 
