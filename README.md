@@ -4,7 +4,6 @@
 <img src="web/Screenshot4.png" width="1000">
 <img src="web/Screenshot5.png" width="1000">
 
-
 # Instachat
 This is a free, online photo-sharing application and social network platfrom that works on Android, iOS & Web.
 
@@ -31,7 +30,7 @@ This is a free, online photo-sharing application and social network platfrom tha
 # Schema
 
 ### User
-Users should be able to upload/download/view photos. Users can perform searches based on photo/video titles. Users can follow other users. The system should generate and display a user's News Feed consisting of top photos from all the people the user follows
+Users would be able to upload/download/view photos. Users can perform searches based on photo/video titles. Users can follow other users. The system should generate and display a user's News Feed consisting of top photos from all the people the user follows.
 
 - Crawling
 - Indexing
